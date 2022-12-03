@@ -208,10 +208,10 @@ main{
 }
 
 video{
-    width: 28%;
+     width: 29%;
     position: absolute;
-    top: 115%;
-    left: 57.18%;
+    top: 120.3%;
+    left: 57.5%;
 }
 
 .second-main .div-text{
@@ -374,7 +374,7 @@ section h4{
     font-family: 'poppins', sans-serif; 
     color: white;
     position: absolute;
-    top: 515%;
+    top: 490%;
 }
 
 #name{
